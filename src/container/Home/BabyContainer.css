@@ -1,0 +1,22 @@
+.map-release {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    gap: 5rem;
+    background-color: whitesmoke;
+    border-radius: 8px;
+}
+.amount {
+    color: red;
+}
+@media (max-width:400) {
+    .map-release {
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+        padding: 1em;
+    }
+}
