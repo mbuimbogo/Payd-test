@@ -5,12 +5,12 @@
   width: 90%;
   margin-left: auto;
   margin-right: auto;
+  padding-top: 1em;
 }
-.high_navbar {
+.high-navbar {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin-top: 1.8rem;
 }
 
 .prof-bell{

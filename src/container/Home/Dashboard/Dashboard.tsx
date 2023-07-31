@@ -18,7 +18,7 @@ function Dashboard() {
     <>
       <div className="wrapper">
         <div className="detail-wrapper">
-        <div className="high_navbar">
+        <div className="high-navbar">
           <div className="menu_icon">
             <RiMenu2Line size={42} />
           </div>
