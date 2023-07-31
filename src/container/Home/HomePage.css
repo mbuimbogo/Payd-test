@@ -1,3 +1,7 @@
+.home-container {
+    background-color: whitesmoke;
+    padding: 1em;
+  }
 .navbar-cont {
   width: 90%;
   margin: 0 auto;
@@ -37,12 +41,6 @@
 .img1 {
   height: 2rem;
   width: 2rem;
-}
-
-.home-container {
-  background-color: whitesmoke;
-  height: 100vh;
-  padding: 1em;
 }
 
 .release-container {
